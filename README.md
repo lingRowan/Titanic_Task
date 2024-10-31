@@ -27,3 +27,5 @@ The performance of the model was evaluated using several metrics:
 - **Accuracy**: 0.78
 
 These metrics suggest that while the model is highly precise in predicting survivors, there is potential for enhancement in recall. This indicates a balanced approach in identifying both true positives and false negatives, making the model quite effective for this classification task.
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
