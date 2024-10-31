@@ -27,7 +27,3 @@ The performance of the model was evaluated using several metrics:
 - **Accuracy**: 0.78
 
 These metrics suggest that while the model is highly precise in predicting survivors, there is potential for enhancement in recall. This indicates a balanced approach in identifying both true positives and false negatives, making the model quite effective for this classification task.
-
----
-
-Feel free to contribute, provide feedback, or suggest enhancements to improve the model!
